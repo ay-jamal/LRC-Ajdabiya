@@ -1807,8 +1807,8 @@ p {
 }
 
 .layout_padding {
-  padding-top: 75px;
-  padding-bottom: 75px;
+  padding-block: 50px;
+
 }
 
 .layout_padding_2 {
