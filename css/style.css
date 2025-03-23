@@ -29,6 +29,7 @@ body {
   line-height: 1.80857;
   overflow-x: hidden !important;
   direction: rtl;
+  scroll-behavior: smooth;
 }
 
 a {
